@@ -1,0 +1,16 @@
+{
+  "description": "Personal portfolio website",
+  "domain": "is-cool.dev",
+  "subdomain": "hamzamo",
+
+  "owner": {
+    "repo": "https://github.com/hdevesupai/register",
+    "email": "h.devesupai@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "hamzamo.com"
+  },
+
+  "proxied": false
+}
